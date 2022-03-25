@@ -1,0 +1,1 @@
+{"uuid":"5b0679b0-7d1b-4a26-9a0c-3450e967b046","historyId":"40ee918312a435f36f46e32f58a13b75","labels":[{"name":"suite","value":"com.geekbrains.test.CalculatorTest"},{"name":"package","value":"com.geekbrains.test.CalculatorTest"}],"name":"1) 1 + 2 = 3","status":"passed","stage":"finished","start":1648233002928,"stop":1648233002940}

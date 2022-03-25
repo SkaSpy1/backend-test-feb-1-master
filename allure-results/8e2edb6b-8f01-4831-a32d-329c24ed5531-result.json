@@ -1,0 +1,1 @@
+{"uuid":"8e2edb6b-8f01-4831-a32d-329c24ed5531","historyId":"a6cb3e8ee5e9c6171ec4e335e01a3bd6","labels":[{"name":"suite","value":"com.geekbrains.test.CalculatorTest"},{"name":"package","value":"com.geekbrains.test.CalculatorTest"}],"name":"Тест суммы двух чисел","status":"passed","stage":"finished","start":1648233002853,"stop":1648233002863}
