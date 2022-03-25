@@ -8,12 +8,11 @@ import java.util.function.Function;
 import java.util.stream.Collectors;
 
 public class WordsCounter {
+    //
 
-    private String[] words;
     private final Map<String, Integer> wordsMap;
 
     public WordsCounter(String[] words) {
-        this.words = words;
         wordsMap = Arrays.stream(words)
                 .collect(Collectors.toMap(
                         Function.identity(),
